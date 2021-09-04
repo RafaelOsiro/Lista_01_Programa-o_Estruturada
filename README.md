@@ -1,1 +1,1 @@
-# Lista_01_Programa-o_Estruturada
+# Lista_01_Programacao_Estruturada
